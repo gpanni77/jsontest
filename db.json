@@ -3,7 +3,7 @@
         "function": "HEATING",
         "mode": "AUTOMATIC",
         "setPoint": {
-            "value": "19.00000",
+            "value": "18.00000",
             "unit": "C"
         },
         "programs": [{
@@ -15,14 +15,14 @@
         "thermometer": {
             "measures": [{
                 "timeStamp": "2020-01-21T13:56:18+01:00",
-                "value": "20.0",
+                "value": "21.0",
                 "unit": "C"
             }]
         },
         "hygrometer": {
             "measures": [{
                 "timeStamp": "2020-01-21T13:56:18+01:00",
-                "value": "41.6",
+                "value": "42.6",
                 "unit": "%"
             }]
         },
