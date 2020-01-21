@@ -1,0 +1,40 @@
+{
+    "chronothermostats": [{
+        "function": "HEATING",
+        "mode": "AUTOMATIC",
+        "setPoint": {
+            "value": "16.00000",
+            "unit": "C"
+        },
+        "programs": [{
+            "number": 1
+        }],
+        "temperatureFormat": "C",
+        "loadState": "INACTIVE",
+        "time": "2020-01-21T13:56:18+01:00",
+        "thermometer": {
+            "measures": [{
+                "timeStamp": "2020-01-21T13:56:18+01:00",
+                "value": "19.0",
+                "unit": "C"
+            }]
+        },
+        "hygrometer": {
+            "measures": [{
+                "timeStamp": "2020-01-21T13:56:18+01:00",
+                "value": "40.6",
+                "unit": "%"
+            }]
+        },
+        "sender": {
+            "addressType": "addressLocation",
+            "system": "thermoregulation",
+            "plant": {
+                "id": "54437f87-046e-095f-e053-20182d0a0d03",
+                "module": {
+                    "id": "54437f87-066e-095f-e053-20182d0a0d03"
+                }
+            }
+        }
+    }]
+}
